@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in Coding
 - 🔭 I’m currently working on Portfolio
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Back-end Development
 - 📫 How to reach me lakshitakumawat20@gmail.com
 
 ### 💻Languages:
