@@ -16,9 +16,6 @@
 
 ### 🔮My Websites:
 
-- #### WebFood   
-  A Website Made For <b>Resturant</b>.
-  <a href="https://lakshita-kumawat.github.io/Website/">Click me!</a>
 - #### Zentek-Electronics
   A Website Made For <b>Shoping</b>.
   <a href="https://lakshita-kumawat.github.io/Zentek-Electronics/">Click me!</a>
