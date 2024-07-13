@@ -19,13 +19,9 @@
 - #### WebFood   
   A Website Made For <b>Resturant</b>.
   <a href="https://lakshita-kumawat.github.io/Website/">Click me!</a>
-- #### Hackathon
-  A Website Made For <b>Events and Competition</b>.
-  <a href="https://lakshita-kumawat.github.io/Hackathon-website/">Click me!</a>
-- #### Portfolio
-  A Website About <em><b>My Projects and Ideas</b></em>.
-  (<em><b>Note</b></em><i> : Its is not complete but you can see it in PC</i>)
-  <a href="https://lakshita-kumawat.github.io/My-Portfolio/">Click me!</a>
+- #### Zentek-Electronics
+  A Website Made For <b>Shoping</b>.
+  <a href="https://lakshita-kumawat.github.io/Zentek-Electronics/">Click me!</a>
 
 <!---
 Lakshita-Kumawat/Lakshita-Kumawat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
