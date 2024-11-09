@@ -25,7 +25,7 @@ jobs:
 
 # Steps represent a sequence of tasks that will be executed as part of the job
 
-  steps:
+steps:
 
 # Checks repo under $GITHUB_WORKSHOP, so your job can access it
   - uses: actions/checkout@v2
