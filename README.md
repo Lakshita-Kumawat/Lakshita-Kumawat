@@ -53,13 +53,27 @@
 
 ###
 
-###
-
 <h2>Badges</h2>
 
 [![An image of @lakshitakumawat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lakshitakumawat)](https://holopin.io/@lakshitakumawat)
 
+###
 
+<h3 align="left">⭐️ My Favorite Quote</h3>
+
+###
+
+<div align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img  src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
+</div>
+
+###
 
 
 <!---
